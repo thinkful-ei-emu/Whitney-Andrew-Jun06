@@ -1,0 +1,9 @@
+1. Will JQuery become obsolete in the near future?
+2. What is the performance cost of using JQuery?
+3. Is the currentTarget behavior always the same even when the target is nested?
+4. How does event delegation work?
+5. how does it affect the target in currentTarget?
+
+6. What is the difference between calling a function like $(function) and function()? Which is better?
+7. Does event.currentTarget return the entire subtree?
+8. Why does this refer the currentTarget instead of target?
